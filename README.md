@@ -1,22 +1,34 @@
-
-
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MarinosPapamichael/test1/blob/d29d72f35e1f9b26c2adc5ae11394a1e6be68081/Solo_leveling.jpeg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/MarinosPapamichael/test1/blob/d29d72f35e1f9b26c2adc5ae11394a1e6be68081/Solo_leveling.jpeg">
- <img alt="Welcome" src="https://github.com/MarinosPapamichael/test1/blob/d29d72f35e1f9b26c2adc5ae11394a1e6be68081/Solo_leveling.jpeg">
+<img alt="Welcome" src="https://github.com/MarinosPapamichael/test1/blob/d29d72f35e1f9b26c2adc5ae11394a1e6be68081/Solo_leveling.jpeg">
 </picture>
 
-<!--
-**MarinosPapamichael/MarinosPapamichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Marinos Papamichael
 
-Here are some ideas to get you started:
+## 👋 Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm Marinos Papamichael, a Data Scientist based in London. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and interests.
+
+## 🚀 About Me
+
+
+## 🔧 Technologies & Tools
+
+- Languages: Python
+- Frameworks: SQL
+- Tools: PowerBI, Xceptor
+
+## 📫 How to Reach Me
+
+- Email: papamichaelm@hotmail.com
+- LinkedIn: [Marinos Papamichael](https://www.linkedin.com/in/marinospapamichael/)
+
+## 🤝 Let's Connect
+
+Feel free to reach out if you have any questions, suggestions, or just want to connect!
+
+
+
+
+
+Thank you for visiting my GitHub profile! 😊
+
