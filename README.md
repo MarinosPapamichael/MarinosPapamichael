@@ -13,8 +13,7 @@ Hello! I'm Marinos Papamichael, a Data Scientist based in London. Welcome to my 
 
 ## 🔧 Technologies & Tools
 
-- Languages: Python
-- Frameworks: SQL
+- Languages: Python, SQL
 - Tools: PowerBI, Xceptor
 
 ## 📫 How to Reach Me
