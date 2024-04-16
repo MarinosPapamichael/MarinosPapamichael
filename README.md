@@ -6,14 +6,19 @@
 
 ## 👋 Introduction
 
-Hello! I'm Marinos Papamichael, a Data Scientist based in London. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and interests.
+Hey there! I'm Marinos Papamichael, a budding data scientist based in London, on a journey of exploration and learning. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and interests.
 
 ## 🚀 About Me
+My passion lies in leveraging data to uncover insights and drive decision-making. With hands-on experience in tools like mySQL, Xceptor, and PowerBI, I've delved into the world of data manipulation and visualization. 
+
+Currently, I'm honing my skills in Python through a dedicated Data Science course, eager to expand my toolkit and tackle more complex projects.
+
+Stay tuned as I gear up to showcase my projects here on my GitHub profile. Exciting things are on the horizon!
 
 
 ## 🔧 Technologies & Tools
 
-- Languages: Python, SQL
+- Languages: Python, mySQL
 - Tools: PowerBI, Xceptor
 
 ## 📫 How to Reach Me
